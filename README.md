@@ -1,3 +1,3 @@
 # Soumya-Portfolio
 
-https://soumya-webdev-portfolio.netlify.app/
+https://soumya-portfolio-webdev.netlify.app/
